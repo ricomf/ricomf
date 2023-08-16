@@ -16,4 +16,3 @@ Meu nome é Ricardo josé, tenho 18 anos e sou o tipo de pessoa que quanto mais 
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 ## GitHuh Status
 [![GitHub Streak](https://streak-stats.demolab.com?user=ricomf&theme=radical&hide_border=verdadeiro&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-## Minhas Contribuições
