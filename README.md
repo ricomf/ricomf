@@ -1,18 +1,35 @@
-# Ricomf
-
 # Olá! Me chamo Ricardo 👋
-## Seja Bem Vindo ao Meu Perfil!
 
-## 🚀 Sobre mim
-Meu nome é Ricardo José, tenho 18 anos e sou o tipo de pessoa que quanto mais eu me aprofundo em um assunto mais cativante esse assunto fica. Atualmente estou no 3° período da minha graduação em Análise e Desenvolvimento de Sistemas na Estácio Recife, estudando Desenvolvimento Web e Java na Udemy. Espero encontrar logo meu estágio para poder colaborar e crescer profissionalmente junto com a minha furura equipe.
+Atualmente, estou trabalhando como estagiário em **Engenharia de Dados** na **FCX Labs**, onde estou constantemente aprendendo e aplicando novas tecnologias para resolver problemas complexos.
 
-## 💻Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/ricardo-jos%C3%A9-42738226b/)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/ricardo_mendonca1000/)
-[![Email](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ricardojmf2005@gmail.com)
-## 🛠Habilidades
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) 
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-## GitHuh Status
+
+### 🚀 GitHub Status
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ricomf&theme=dark)](https://git.io/streak-stats)
+
+---
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="rico-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="rico-Rb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain.svg">
+  <img align="center" alt="rico-Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg">
+  <img align="center" alt="rico-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="rico-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="rico-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="rico-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg">
+  <img align="center" alt="rico-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" >
+  <img align="center" alt="rico-Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" >
+  <img align="center" alt="rico-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" >     
+</div>
+  
+  ##
+ 
+<div> 
+
+  <a href="https://instagram.com/ricardo_mendonca1000" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ricardojmf2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ricardo-mendonça-42738226b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
+          
+          
