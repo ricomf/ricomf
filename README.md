@@ -1,4 +1,4 @@
-# Olá! Me chamo Ricardo 👋
+# Olá! Sou Ricardo 👋
 
 Atualmente, estou trabalhando como estagiário em **Engenharia de Dados** na **FCX Labs**, onde estou constantemente aprendendo e aplicando novas tecnologias para resolver problemas complexos.
 
