@@ -19,6 +19,7 @@ Atualmente, estou trabalhando como estagiário em **Engenharia de Dados** na **F
   <img align="center" alt="rico-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" >
   <img align="center" alt="rico-Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" >
   <img align="center" alt="rico-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" >     
+  <img align="center" alt="rico-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" >     
 </div>
   
   ##
