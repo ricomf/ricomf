@@ -1,6 +1,6 @@
 # Olá! Sou Ricardo 👋
 
-Atualmente, estou trabalhando como estagiário em **Engenharia de Dados** na **FCX Labs**, onde estou constantemente aprendendo e aplicando novas tecnologias para resolver problemas complexos.
+Atualmente estou no cargo **Associate Data Engineer** na **FCX Labs**.
 
 
 ### 🚀 GitHub Status
@@ -20,7 +20,13 @@ Atualmente, estou trabalhando como estagiário em **Engenharia de Dados** na **F
   <img align="center" alt="rico-Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" >
   <img align="center" alt="rico-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" >     
   <img align="center" alt="rico-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" >     
-  <img align="center" alt="rico-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" >     
+  <img align="center" alt="rico-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" >  
+  <img align="center" alt="rico-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" > 
+  <img align="center" alt="rico-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" > 
+  <img align="center" alt="rico-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" > 
+  <img align="center" alt="rico-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" > 
+  <img align="center" alt="rico-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" > 
+  <img align="center" alt="rico-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" > 
 </div>
   
   ##
